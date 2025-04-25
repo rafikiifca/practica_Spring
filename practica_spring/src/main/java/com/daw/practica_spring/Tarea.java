@@ -1,4 +1,4 @@
-package model;
+package com.daw.practica_spring;
 
 public class Tarea {
 
