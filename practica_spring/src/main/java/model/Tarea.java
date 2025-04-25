@@ -12,6 +12,7 @@ public class Tarea {
         this.completado = completado;
     }
 
+
     public int getId() {
         return id;
     }
